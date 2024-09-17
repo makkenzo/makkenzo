@@ -1,19 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 11 September 2024 - To: 15 September 2024
+From: 11 September 2024 - To: 16 September 2024
 
-Total Time: 5 hrs 47 mins
+Total Time: 9 hrs 30 mins
 
-Vue.js        4 hrs 16 mins   ██████████████████▒░░░░░░   73.69 %
-TypeScript    1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-YAML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-JSON          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Docker        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Batchfile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Vue.js        6 hrs 56 mins   ██████████████████▒░░░░░░   73.00 %
+TypeScript    2 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+YAML          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+JSON          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Docker        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Batchfile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
