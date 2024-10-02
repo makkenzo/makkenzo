@@ -1,20 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 11 September 2024 - To: 30 September 2024
+From: 11 September 2024 - To: 01 October 2024
 
-Total Time: 44 hrs 30 mins
+Total Time: 47 hrs 36 mins
 
-Vue.js        25 hrs 37 mins  ██████████████▒░░░░░░░░░░   57.45 %
-TypeScript    13 hrs 20 mins  ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-Python        1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-JSON          1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-YAML          40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Image (svg)   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Git           15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Text          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Git Config    11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Bash          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Vue.js        27 hrs 5 mins   ██████████████░░░░░░░░░░░   56.61 %
+TypeScript    14 hrs 54 mins  ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+Python        1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON          1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+YAML          40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Image (svg)   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Git           15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
