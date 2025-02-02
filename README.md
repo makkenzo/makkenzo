@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 11 September 2024 - To: 31 January 2025
+From: 11 September 2024 - To: 01 February 2025
 
 Total Time: 343 hrs 12 mins
 
