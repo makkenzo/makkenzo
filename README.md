@@ -1,14 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 11 September 2024 - To: 15 February 2025
+From: 18 January 2025 - To: 17 February 2025
 
-Total Time: 386 hrs 28 mins
+Total Time: 91 hrs 9 mins
 
-TypeScript        245 hrs 49 mins ███████████████▒░░░░░░░░░   60.85 %
-Vue.js            31 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-C#                25 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Other             17 hrs 30 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+TypeScript        36 hrs 9 mins   █████████▒░░░░░░░░░░░░░░░   37.74 %
+C#                26 hrs 24 mins  ███████░░░░░░░░░░░░░░░░░░   27.57 %
+XAML              12 hrs 56 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Kotlin            5 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Other             4 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->
