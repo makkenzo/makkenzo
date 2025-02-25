@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 24 January 2025 - To: 23 February 2025
+From: 25 January 2025 - To: 24 February 2025
 
-Total Time: 89 hrs 53 mins
+Total Time: 93 hrs 39 mins
 
-C#                26 hrs 37 mins  ███████░░░░░░░░░░░░░░░░░░   28.18 %
-TypeScript        26 hrs 23 mins  ███████░░░░░░░░░░░░░░░░░░   27.93 %
-XAML              12 hrs 56 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-Kotlin            10 hrs 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Other             4 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+TypeScript        27 hrs 29 mins  ███████░░░░░░░░░░░░░░░░░░   27.97 %
+C#                26 hrs 37 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
+XAML              12 hrs 56 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Kotlin            10 hrs 47 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Other             4 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
