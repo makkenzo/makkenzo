@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 26 February 2025 - To: 28 March 2025
+From: 27 February 2025 - To: 29 March 2025
 
-Total Time: 105 hrs 3 mins
+Total Time: 102 hrs 27 mins
 
-TypeScript        41 hrs 30 mins  █████████▓░░░░░░░░░░░░░░░   39.16 %
-Python            24 hrs 9 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-Kotlin            9 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Dart              9 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Bash              3 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript        40 hrs 2 mins   █████████▓░░░░░░░░░░░░░░░   38.81 %
+Python            23 hrs 58 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.24 %
+Kotlin            9 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Dart              9 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Bash              3 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
