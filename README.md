@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 24 April 2025 - To: 24 May 2025
+From: 26 April 2025 - To: 26 May 2025
 
-Total Time: 132 hrs 51 mins
+Total Time: 134 hrs 43 mins
 
-TypeScript                         62 hrs 12 mins  ███████████▒░░░░░░░░░░░░░   45.80 %
-Kotlin                             26 hrs 49 mins  █████░░░░░░░░░░░░░░░░░░░░   19.75 %
-Rust                               7 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Python                             3 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+TypeScript                 61 hrs 21 mins  ███████████░░░░░░░░░░░░░░   44.61 %
+Kotlin                     26 hrs 51 mins  █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+Rust                       10 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Python                     3 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
