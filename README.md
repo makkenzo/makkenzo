@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 20 May 2025 - To: 19 June 2025
+From: 21 May 2025 - To: 20 June 2025
 
-Total Time: 69 hrs 7 mins
+Total Time: 71 hrs 49 mins
 
-Python                             17 hrs 28 mins  ██████░░░░░░░░░░░░░░░░░░░   24.37 %
-TypeScript                         11 hrs 1 min    ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Rust                               10 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-Bash                               3 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Python                             21 hrs 51 mins  ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+Rust                               10 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+TypeScript                         9 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Bash                               3 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
