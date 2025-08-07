@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 06 July 2025 - To: 05 August 2025
+From: 07 July 2025 - To: 06 August 2025
 
-Total Time: 7 hrs 58 mins
+Total Time: 7 hrs 49 mins
 
-TypeScript                         2 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 %
-C#                                 1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-Python                             1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
-CSV                                44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Text                               29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+TypeScript                         2 hrs 26 mins   ███████▓░░░░░░░░░░░░░░░░░   30.38 %
+C#                                 1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+Python                             1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+CSV                                44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Text                               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
