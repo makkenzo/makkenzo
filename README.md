@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 28 July 2025 - To: 27 August 2025
+From: 29 July 2025 - To: 28 August 2025
 
 Total Time: 18 hrs 28 mins
 
