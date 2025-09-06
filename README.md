@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 05 August 2025 - To: 04 September 2025
+From: 06 August 2025 - To: 05 September 2025
 
-Total Time: 33 hrs 58 mins
+Total Time: 38 hrs 14 mins
 
-TypeScript   22 hrs 3 mins   ███████████████▓░░░░░░░░░   63.24 %
-Bash         2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-JavaScript   1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+TypeScript   24 hrs 56 mins  ███████████████▓░░░░░░░░░   63.30 %
+Bash         3 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+JavaScript   1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
