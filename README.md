@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 30 November 2025 - To: 30 December 2025
+From: 02 December 2025 - To: 01 January 2026
 
-Total Time: 128 hrs 19 mins
+Total Time: 119 hrs 42 mins
 
-TypeScript        105 hrs 54 mins ████████████████████░░░░░   80.19 %
-Bash              5 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Other             3 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-JavaScript        1 hr 44 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript        99 hrs 53 mins  ████████████████████▒░░░░   81.38 %
+Bash              4 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Other             3 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JavaScript        1 hr 27 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
