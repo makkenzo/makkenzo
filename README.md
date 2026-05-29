@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 25 April 2026 - To: 25 May 2026
+From: 28 April 2026 - To: 28 May 2026
 
-Total Time: 87 hrs 35 mins
+Total Time: 95 hrs 52 mins
 
-TypeScript   70 hrs 56 mins        ████████████████▒░░░░░░░░   64.81 %
-Other        21 hrs 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-Bash         3 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Astro        3 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-HTML         1 hr 26 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+TypeScript   76 hrs 48 mins        ████████████████░░░░░░░░░   63.93 %
+Other        24 hrs 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+Bash         3 hrs 38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Astro        3 hrs 17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+HTML         1 hr 27 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
