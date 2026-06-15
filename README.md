@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 13 May 2026 - To: 12 June 2026
+From: 14 May 2026 - To: 13 June 2026
 
-Total Time: 104 hrs 24 mins
+Total Time: 99 hrs 47 mins
 
-TypeScript      88 hrs 59 mins        █████████████████▒░░░░░░░   69.50 %
-Other           23 hrs 37 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-Bash            3 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-XML             1 hr 45 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TypeScript      84 hrs 54 mins        █████████████████▒░░░░░░░   69.30 %
+Other           22 hrs 43 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
+Bash            3 hrs 27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+XML             1 hr 45 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
