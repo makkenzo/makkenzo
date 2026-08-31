@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 28 February 2026 - To: 29 August 2026
+From: 01 March 2026 - To: 30 August 2026
 
 Total Time: 542 hrs 48 mins
 
