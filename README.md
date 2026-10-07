@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```abap
-From: 06 April 2026 - To: 05 October 2026
+From: 07 April 2026 - To: 06 October 2026
 
-Total Time: 514 hrs 27 mins
+Total Time: 512 hrs 41 mins
 
-TypeScript                392 hrs 58 mins       ██████████████▓░░░░░░░░░░   59.14 %
-Other                     149 hrs 59 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-Bash                      18 hrs 12 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Markdown                  12 hrs 38 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript                392 hrs 34 mins       ███████████████░░░░░░░░░░   59.52 %
+Other                     146 hrs 50 mins       █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+Bash                      17 hrs 56 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Markdown                  12 hrs 37 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
